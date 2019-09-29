@@ -1,0 +1,30 @@
+﻿  center.cpp
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“Picture”的左侧
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“Data”的左侧
+  control.cpp
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“Picture”的左侧
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“Data”的左侧
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(50): warning C4305: “=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(51): warning C4305: “=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(67): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(69): warning C4305: “=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(86): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(87): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(96): warning C4305: “=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(242): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(254): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(278): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(333): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(354): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(694): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(695): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(701): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\control.cpp(702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Main.cpp
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“Picture”的左侧
+c:\users\蓝君zz\onedrive\学校\汇编语言与接口技术\flappybird-master\src\fb_headfile.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“Data”的左侧
+  正在生成代码
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  flppy bird.vcxproj -> C:\Users\蓝君zz\OneDrive\学校\汇编语言与接口技术\FlappyBird-master\src\x64\Release\flppy bird.exe
